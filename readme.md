@@ -1,3 +1,8 @@
+### Hi there 👋
+
+I'm a full stack developer, passionate about web and mobile front-end.
+JavaScript, Typescript, NodeJS, ReactJS and React Native development technologies
+
 <div align="center" >
 
 [![Kaik Oliveira github stats](https://github-readme-stats.vercel.app/api?username=KaikOliveira&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
