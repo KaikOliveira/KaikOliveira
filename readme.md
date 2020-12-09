@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ✌️ 
 
 I'm a full stack developer, passionate about web and mobile front-end.
 HTML, CSS, JavaScript, Typescript, NodeJS, ReactJS and React Native development technologies
