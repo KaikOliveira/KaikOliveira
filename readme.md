@@ -10,7 +10,7 @@ HTML, CSS, JavaScript, Typescript, NodeJS, ReactJS and React Native development 
 
   <div style="align-self: center;align-items: center; display: flex; justify-content: space-between; width: 150px;" >
     <a href="https://www.linkedin.com/in/kaik-oliveira-2347571a4/">
-      <img src="https://github.com/KaikOliveira/KaikOliveira/blob/main/img/linkedin.png" alt="linkedin" height="50">
+      <img src="https://github.com/KaikOliveira/KaikOliveira/blob/main/img/linkedin1.png" alt="linkedin" height="50">
     </a>
   </div>
 </div>
