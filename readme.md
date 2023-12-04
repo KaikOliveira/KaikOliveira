@@ -14,7 +14,7 @@ HTML, CSS, JavaScript, Typescript, ReactJS, NextJs, Node, Express and NestJs dev
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/kaik-oliveira-2347571a4/)](https://www.linkedin.com/in/kaik-oliveira-2347571a4/)
 <br>
   <br>
-<div align-self: start>
+<div style="align-self: start">
   <p style="font-size: 12px; color: #333; font-family: Arial, Helvetica, sans-serif;">
     Profile Visitor Count
   </p>
