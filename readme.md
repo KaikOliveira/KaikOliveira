@@ -15,8 +15,8 @@ HTML, CSS, JavaScript, Typescript, ReactJS, NextJs, Node, Express and NestJs dev
 <br>
   <br>
   </div>
-<div align="left">
-  <p style="font-size: 12px; color: #333; font-family: Arial, Helvetica, sans-serif;">
+<div align="center">
+  <p style="font-size: 8px; color: #333; font-family: Arial, Helvetica, sans-serif;">
     Profile Visitor Count
   </p>
 
