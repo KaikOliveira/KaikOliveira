@@ -12,5 +12,5 @@ HTML, CSS, JavaScript, Typescript, ReactJS, NextJs, Node, Express and NestJs dev
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/kaik-oliveira-2347571a4/)](https://www.linkedin.com/in/kaik-oliveira-2347571a4/)
-
+https://profile-counter.glitch.me/kaikoliveiraa/count.svg
 </div>
