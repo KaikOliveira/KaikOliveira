@@ -13,5 +13,14 @@ HTML, CSS, JavaScript, Typescript, ReactJS, NextJs, Node, Express and NestJs dev
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/kaik-oliveira-2347571a4/)](https://www.linkedin.com/in/kaik-oliveira-2347571a4/)
 <br>
-<img height="160em" src="https://profile-counter.glitch.me/kaikoliveiraa/count.svg" />
+<div align="center">
+  <h3><b>Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/kaikoliveiraa/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
 </div>
